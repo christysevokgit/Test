@@ -69,8 +69,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="NewFolder1\SeleniumClass\Class1.cs" />
-    <Compile Include="NewFolder1\Unit\UnitTest1.cs" />
+    <Compile Include="NewFolder1\SeleniumClass\Contact.cs" />
+    <Compile Include="NewFolder1\SeleniumClass\HomePage.cs" />
+    <Compile Include="NewFolder1\SeleniumClass\Jobs.cs" />
+    <Compile Include="NewFolder1\SeleniumClass\Services.cs" />
+    <Compile Include="NewFolder1\Tests\Tests.cs" />
+    <Compile Include="NewFolder1\SeleniumClass\WorkCases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
